@@ -1,0 +1,10 @@
+BEGIN
+INT x := 5.0
+IF (x = 0.23532)
+	print "Hello there"
+?
+DOUBLE y := x + 3.5791
+print "Computation completed."
+/* This is just a comment */
+{[^.
+END

@@ -1,0 +1,30 @@
+TOKENS/TYPES        	WORDS/LEXEMES
+------------        	-------------
+Begin               	BEGIN
+Identifier          	INT
+Identifier          	x
+Assignment          	:=
+Real Constant       	5.0
+If                  	IF
+Left parenthesis    	(
+Identifier          	x
+Invalid             	=
+Real Constant       	5.0
+Right parenthesis   	)
+Identifier          	print
+String              	"Hello there"
+Invalid             	?
+Identifier          	DOUBLE
+Identifier          	y
+Assignment          	:=
+Identifier          	x
+Plus                	+
+Real Constant       	3.5791
+Identifier          	print
+String              	"Computation completed."
+Comment             	/* This is just a comment */
+Invalid             	{
+Invalid             	[
+Invalid             	^
+Invalid             	.
+End                 	END
